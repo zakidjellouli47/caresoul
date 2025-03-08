@@ -61,6 +61,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
+
+
+
 ### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
@@ -68,3 +71,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+ ⭐️ ⭐️ Reac web carousel silder using the carousel slider ⭐️ ⭐️
+
+This code was  simple responsive image slider for plants album using react js 
+
+My linkedin
+https://www.linkedin.com/in/abdessamed-zakaria-djellouli-05a27b222/
+
+
+💻 Author
+Djellouli Abdessamed Zakaria
+
+![Image](https://github.com/user-attachments/assets/3ea92159-09cc-4406-be25-031c067620b6)
+
